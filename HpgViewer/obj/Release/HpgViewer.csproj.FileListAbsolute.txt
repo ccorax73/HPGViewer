@@ -1,0 +1,12 @@
+C:\Users\101020626\OneDrive - Tungsram Operations Kft\Documents\Visual Studio 2008\Projects\HpgViewer\HpgViewer\bin\Release\HpgViewer.exe
+C:\Users\101020626\OneDrive - Tungsram Operations Kft\Documents\Visual Studio 2008\Projects\HpgViewer\HpgViewer\bin\Release\HpgViewer.pdb
+C:\Users\101020626\OneDrive - Tungsram Operations Kft\Documents\Visual Studio 2008\Projects\HpgViewer\HpgViewer\obj\Release\HpgViewer.csprojAssemblyReference.cache
+C:\Users\101020626\OneDrive - Tungsram Operations Kft\Documents\Visual Studio 2008\Projects\HpgViewer\HpgViewer\obj\Release\HpgViewer.Form1.resources
+C:\Users\101020626\OneDrive - Tungsram Operations Kft\Documents\Visual Studio 2008\Projects\HpgViewer\HpgViewer\obj\Release\HpgViewer.F_userdisplay.resources
+C:\Users\101020626\OneDrive - Tungsram Operations Kft\Documents\Visual Studio 2008\Projects\HpgViewer\HpgViewer\obj\Release\HpgViewer.Pensetup.resources
+C:\Users\101020626\OneDrive - Tungsram Operations Kft\Documents\Visual Studio 2008\Projects\HpgViewer\HpgViewer\obj\Release\HpgViewer.Properties.Resources.resources
+C:\Users\101020626\OneDrive - Tungsram Operations Kft\Documents\Visual Studio 2008\Projects\HpgViewer\HpgViewer\obj\Release\HpgViewer.UC_pens.resources
+C:\Users\101020626\OneDrive - Tungsram Operations Kft\Documents\Visual Studio 2008\Projects\HpgViewer\HpgViewer\obj\Release\HpgViewer.csproj.GenerateResource.cache
+C:\Users\101020626\OneDrive - Tungsram Operations Kft\Documents\Visual Studio 2008\Projects\HpgViewer\HpgViewer\obj\Release\HpgViewer.csproj.CoreCompileInputs.cache
+C:\Users\101020626\OneDrive - Tungsram Operations Kft\Documents\Visual Studio 2008\Projects\HpgViewer\HpgViewer\obj\Release\HpgViewer.exe
+C:\Users\101020626\OneDrive - Tungsram Operations Kft\Documents\Visual Studio 2008\Projects\HpgViewer\HpgViewer\obj\Release\HpgViewer.pdb
